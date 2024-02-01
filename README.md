@@ -11,7 +11,7 @@
 * ![SpaceGame in Gameplay](https://github.com/9606841/ProgrammingPortfolio/blob/main/images/SpaceGame.png?raw=true)
 ### Etch-a-Sketch
 * uses UIX to draw on screen with keyboard/mouse listeners
-* 
+* ![Etch-a-Sketch](https://github.com/9606841/ProgrammingPortfolio/blob/main/images/Etch-a-Sketch.png?raw=true)
 ### Calculator
 * a calculating app
 ### Zoog
