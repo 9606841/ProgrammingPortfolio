@@ -14,6 +14,7 @@
 * ![Etch-a-Sketch](https://github.com/9606841/ProgrammingPortfolio/blob/main/images/Etch-a-Sketch.png?raw=true)
 ### Calculator
 * a calculating app
+* ![Calculator](https://github.com/9606841/ProgrammingPortfolio/blob/main/images/Calculator.png?raw=true)
 ### Zoog
 * a randomly generating image program
 * ![Zoog Screensaver](https://github.com/9606841/ProgrammingPortfolio/blob/main/images/Zoog.png?raw=true)
