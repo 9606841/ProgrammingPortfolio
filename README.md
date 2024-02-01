@@ -11,7 +11,7 @@
 * ![SpaceGame Start Screen](https://github.com/9606841/ProgrammingPortfolio/blob/main/images/SpaceGameStart.png?raw=true)
 * ![SpaceGame in Gameplay](https://github.com/9606841/ProgrammingPortfolio/blob/main/images/SpaceGame.png?raw=true)
 * ![SpaceGame Game Over Screen](https://github.com/9606841/ProgrammingPortfolio/blob/main/images/SpaceGameEnd.png?raw=true)
-* [SpaceGame Source Code]([https://github.com/9606841/ProgrammingPortfolio/blob/main/images/SpaceGame.png?raw=true](https://github.com/9606841/ProgrammingPortfolio/blob/main/src/SpaceGame.zip))
+* [SpaceGame Source Code](https://github.com/9606841/ProgrammingPortfolio/blob/main/src/SpaceGame.zip)
 ### Etch-a-Sketch
 * uses UIX to draw on screen with keyboard/mouse listeners
 * ![Etch-a-Sketch](https://github.com/9606841/ProgrammingPortfolio/blob/main/images/Etch-a-Sketch.png?raw=true)
