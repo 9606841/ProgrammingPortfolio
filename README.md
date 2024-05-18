@@ -4,6 +4,13 @@
 * Computer Programming 1
 
 ## Group Projects(2023-2024)
+### BunnyBreak
+* a RPG game based around a story with multiple puzzles
+* ![Bunny Walk Left](https://github.com/9606841/BunnyPrisonGame/blob/main/images/BunWalkLeft.gif?raw=true)
+* ![Bunny Walk Right](https://github.com/9606841/BunnyPrisonGame/blob/main/images/BunWalkRight.gif?raw=true)
+* ![Bunny Idle GUI](https://github.com/9606841/BunnyPrisonGame/blob/main/images/Bunny%20Idle.gif?raw=true)
+* ![Mafia Bird GUI](https://github.com/9606841/BunnyPrisonGame/blob/main/images/MafiaBirdOB.png?raw=true)
+* [link to repo](https://github.com/9606841/BunnyPrisonGame)
 
 ## Individual Projects(2023-2024)
 ### SpaceGame
@@ -28,3 +35,6 @@
 * timeline with mouse hover capabilities
 * ![Timeline](https://github.com/9606841/ProgrammingPortfolio/blob/main/images/Timeline.png?raw=true)
 * [Timeline Source Code](https://github.com/9606841/ProgrammingPortfolio/blob/main/src/Timeline.zip)
+### ProductivityApp
+* application desinged to handle tasks, lists, and daily tasks
+* [link to repo](https://github.com/9606841/ProductivityApp)
